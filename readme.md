@@ -10,14 +10,14 @@ YOLO, ROS2, Jetson, TensorRT 기반 프로젝트를 수행하며 실제 환경�
 - Computer Vision 모델을 실제 디바이스에 배포하는 과정에 흥미가 있습니다
 
 ## Tech Stack
-**Languages**  
-Python · Verilog
-
-**AI / CV**  
-PyTorch · OpenCV · ONNX · TensorRT
-
-**System**  
-ROS2 · Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-808080?style=flat-square)
 
 **Hardware**  
 Jetson · FPGA
