@@ -16,5 +16,5 @@ Python · PyTorch · ROS2 · Linux · OpenCV · ONNX · TensorRT · Verilog
 - FPGA 기반 AI Accelerator 프로젝트
 
 ## Links
-- Velog: 
+- Velog: https://velog.io/@22nsoo/posts
 - Naver blog: https://blog.naver.com/dldlstn6695
