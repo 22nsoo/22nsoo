@@ -33,5 +33,5 @@ Jetson · FPGA
   AI 모델 경량화 및 하드웨어 가속 구조 설계 경험
 
 ## Links
-- Velog: [22nsooda.log](https://velog.io/@22nsooda/posts)
-- Naver Blog: [기록](https://blog.naver.com/dldlstn6695)
+- Velog: [프로젝트 기록](https://velog.io/@22nsooda/posts)
+- Naver Blog: [공부 기록](https://blog.naver.com/dldlstn6695)
