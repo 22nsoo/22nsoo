@@ -8,6 +8,12 @@ Computer Vision, Embedded AI, and Edge System Engineer를 목표로 하고 있�
 - FPGA / Verilog / Edge AI 관심
 - Computer Vision 모델을 실제 디바이스에 배포하는 과정에 흥미가 있습니다
 
+## Experience
+- **2020.03 - 2025.12** | 서울과학기술대학교 전자공학과 (졸업예정)
+- **2025.07 - 2025.08** | LG Aimers / Data Intelligence 7기 수료
+- **2025.09 - 2025.12** | KIST 지능인터랙션연구센터 학부 인턴
+- **2025.02 - 현재** | 현대로템 방산 AI 개발 과정
+
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -32,6 +38,9 @@ Jetson · FPGA
 
 - **FPGA 기반 AI Accelerator 프로젝트**  
   AI 모델 경량화 및 하드웨어 가속 구조 설계 경험
+
+- **MATLAB / C 기반 디지털 필터 설계 및 검증**  
+  FIR / IIR 필터를 MATLAB으로 설계하고, C로 직접 구현하여 주파수 응답과 동작 결과를 비교 검증 프로젝트
 
 ## Links
 - Velog: [프로젝트 기록](https://velog.io/@22nsooda/posts)
