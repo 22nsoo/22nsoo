@@ -9,7 +9,7 @@ Computer Vision, Embedded AI, and Edge System Engineer를 목표로 하고 있�
 - Computer Vision 모델을 실제 디바이스에 배포하는 과정에 흥미가 있습니다
 
 ## Experience
-- **2020.03 - 2025.12** | 서울과학기술대학교 전자공학과 (졸업예정)
+- **2020.03 - 2026.02** | 서울과학기술대학교 전자공학과
 - **2025.07 - 2025.08** | LG Aimers / Data Intelligence 7기 수료
 - **2025.09 - 2025.12** | KIST 지능인터랙션연구센터 학부 인턴
 - **2025.02 - 현재** | 현대로템 방산 AI 개발 과정
